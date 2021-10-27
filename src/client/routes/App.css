@@ -1,0 +1,20 @@
+.App {
+  width: fit-content;
+  margin: 24px auto;
+  padding-bottom: 24px;
+}
+
+.App-search{
+  display: flex; 
+  width: 100%; 
+  justify-content: flex-end; 
+  margin-bottom: 10px;
+}
+
+.App-bottom-btn {
+  display: flex; 
+  justify-content: flex-end; 
+  margin: 10px auto;
+}
+
+
